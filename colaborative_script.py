@@ -3,3 +3,4 @@ print(a)
 for character in a:
     print(character)
     print("ASCII:", ord(character))
+    print("twojastarazapierdala")
